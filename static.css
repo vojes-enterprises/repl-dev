@@ -1,0 +1,33 @@
+@import url("default.css");
+
+h1,h2,h3 {
+  font-family: 'Lexend Deca', sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  font-family: 'Viga', sans-serif;
+  margin: 0%;
+}
+
+.project {
+  padding-left: 16.66%;
+  padding-right: 16.66%;
+}
+
+.dark {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+.light {
+  background-color: #ffffff;
+  color: #000000; 
+}
+
+#tile1 {
+  text-align: center;
+}
